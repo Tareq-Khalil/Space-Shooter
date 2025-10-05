@@ -346,3 +346,4 @@ def main(screen):
 
 if _name_ == '_main_':
     curses.wrapper(main)
+
